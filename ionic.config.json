@@ -1,0 +1,7 @@
+{
+  "name": "courseworkIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
