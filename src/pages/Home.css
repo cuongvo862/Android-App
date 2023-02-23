@@ -1,0 +1,14 @@
+ion-content#background{
+    background-image: url("./assets/background.jpg");
+    --background:none;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+ion-text#rentalz{
+  font-size: 50px;
+  color:burlywood;
+  margin-left: 25%;
+  margin-top: 60px;
+}
